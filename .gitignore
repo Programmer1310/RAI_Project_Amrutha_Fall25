@@ -1,0 +1,5 @@
+# Raw and derived NC voter data (large, contains personal records) — see README for the source
+Project Implementation/ncvotersheets/
+*.csv
+.DS_Store
+.ipynb_checkpoints/
